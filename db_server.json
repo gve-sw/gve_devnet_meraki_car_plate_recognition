@@ -1,0 +1,21 @@
+{
+  "order": [
+    {
+      "customer": "Bob",
+      "menu": "Burger",
+      "qty": 3,
+      "car_plate": "BMW I8",
+      "time": "2021-04-23T08:09:46Z",
+      "id": 1,
+      "serviced": false
+    }
+  ],
+  "car_event": [
+    {
+      "id": 1,
+      "plate": "T-XXX-DEVNET",
+      "time": "2021-04-23T08:39:46Z",
+      "location": "MV12 Lot XX"
+    }
+  ]
+}
